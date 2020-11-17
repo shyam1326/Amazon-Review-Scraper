@@ -16,3 +16,4 @@ Other examples of the applications of web scrapping are:
 • Manufacturers monitor the market, whether the retailer is maintaining a minimum price or not.
 • Sentiment analysis of the consumers, whether they are happy with the services and products or not.
 
+![img](https://github.com/shyam1326/Amazon-Review-Scraper/blob/main/images/img1.png)
