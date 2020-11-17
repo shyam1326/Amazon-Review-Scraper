@@ -16,4 +16,8 @@ Other examples of the applications of web scrapping are:
 • Manufacturers monitor the market, whether the retailer is maintaining a minimum price or not.
 • Sentiment analysis of the consumers, whether they are happy with the services and products or not.
 
+
+# Heroku Deployed Link - https://pure-island-84532.herokuapp.com/
+
 ![img](https://github.com/shyam1326/Amazon-Review-Scraper/blob/main/images/img1.png)
+![img](https://github.com/shyam1326/Amazon-Review-Scraper/blob/main/images/img2.png)
